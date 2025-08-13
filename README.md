@@ -59,3 +59,6 @@ Tech Stack
 - Detection APIs: Win32 API (WM_DEVICECHANGE, ReadDirectoryChangesW), Linux udev + inotify
 - Simulated Tracking: GeoIP + MAC/IP collection in lab mode
 
+⚠️ LEGAL NOTICE: This project is governed by the Repository Ownership & Contribution Agreement.
+By contributing to or accessing this repository, you agree to its terms.
+See REPO_OWNERSHIP_AND_CONTRIBUTION_AGREEMENT.md for details.
