@@ -1,0 +1,18 @@
+# Build output
+/bin/
+/obj/
+
+# Debug and runtime files
+*.exe
+*.dll
+*.pdb
+*.cache
+*.nuget.*
+*.csproj.FileListAbsolute.txt
+*.runtimeconfig.json
+*.deps.json
+
+# User-specific settings
+.vs/
+*.user
+*.suo
