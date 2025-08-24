@@ -1,0 +1,14 @@
+C:\Users\III\Desktop\ArgusFileMonitor\bin\Debug\net8.0\ArgusFileMonitor.exe
+C:\Users\III\Desktop\ArgusFileMonitor\bin\Debug\net8.0\ArgusFileMonitor.deps.json
+C:\Users\III\Desktop\ArgusFileMonitor\bin\Debug\net8.0\ArgusFileMonitor.runtimeconfig.json
+C:\Users\III\Desktop\ArgusFileMonitor\bin\Debug\net8.0\ArgusFileMonitor.dll
+C:\Users\III\Desktop\ArgusFileMonitor\bin\Debug\net8.0\ArgusFileMonitor.pdb
+C:\Users\III\Desktop\ArgusFileMonitor\obj\Debug\net8.0\ArgusFileMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\III\Desktop\ArgusFileMonitor\obj\Debug\net8.0\ArgusFileMonitor.AssemblyInfoInputs.cache
+C:\Users\III\Desktop\ArgusFileMonitor\obj\Debug\net8.0\ArgusFileMonitor.AssemblyInfo.cs
+C:\Users\III\Desktop\ArgusFileMonitor\obj\Debug\net8.0\ArgusFileMonitor.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\ArgusFileMonitor\obj\Debug\net8.0\ArgusFileMonitor.dll
+C:\Users\III\Desktop\ArgusFileMonitor\obj\Debug\net8.0\refint\ArgusFileMonitor.dll
+C:\Users\III\Desktop\ArgusFileMonitor\obj\Debug\net8.0\ArgusFileMonitor.pdb
+C:\Users\III\Desktop\ArgusFileMonitor\obj\Debug\net8.0\ArgusFileMonitor.genruntimeconfig.cache
+C:\Users\III\Desktop\ArgusFileMonitor\obj\Debug\net8.0\ref\ArgusFileMonitor.dll
